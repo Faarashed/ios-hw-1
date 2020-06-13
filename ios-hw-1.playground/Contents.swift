@@ -5,12 +5,12 @@
  
  */
 
-let name = "Ahmad"
+var name = "Ahmed"
 
 name = "Salem"
 
 
-var myWeight = 60
+var myWeight = Double(60)
 var FriendWeight = 80.5
 var height = 1.5
 
@@ -38,26 +38,26 @@ var bmi = myWeight * (height * height)
  */
 
 //Person 1
-var firstName1 = ""
-var lastName1 = ""
-var email1 = ""
-var phoneNumber1 = ""
-var age1 = 0
-var country1 = ""
-var area1 = ""
-var password = ""
+var firstName1 = "nasser"
+var lastName1 = "almarshoud"
+var email1 = "n.almarshoud5556@gmail.com"
+var phoneNumber1 = "+966 999999999"
+var age1 = 16
+var country1 = "Saudi Arabia"
+var area1 = "Riyadh"
+var password = "likepizza"
 var isKuwaiti = false
 
 //Person 2
-
-
-
-
-
-
-
-
-
+var firstName2 = "saleh"
+var lastName2 = "al sabah "
+var email2 = "saleh.alsabah@gmail.com"
+var phonenumber2 = "+965 9856743"
+var age2 = 19
+var country2 = "kuwait"
+var area2 = "heteen"
+ password = "johnnny"
+ isKuwaiti = true
 
 //Person 3
 
@@ -82,3 +82,4 @@ var isKuwaiti = false
 
  
  */
+
