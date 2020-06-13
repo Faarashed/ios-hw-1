@@ -21,5 +21,11 @@ var age_diffrence = age - friendage
 
 // compare
 age > friendage
+age < friendage
+height <= friendheight
 friendheight >= height
+age == friendage
+friendheight == height
+friendage != age
+height != friendheight
 
