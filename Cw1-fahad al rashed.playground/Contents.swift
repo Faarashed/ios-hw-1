@@ -28,4 +28,6 @@ age == friendage
 friendheight == height
 friendage != age
 height != friendheight
+hobby2 == friendhobby2
+hobby1 == friendhobby1
 
