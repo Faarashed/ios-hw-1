@@ -20,9 +20,6 @@ var friendheight = 1.8
 var age_diffrence = age - friendage
 
 // compare
-friendname != name
-hobby1 < hobby2
-age >= friendage
-height == friendheight
-
+age > friendage
+friendheight >= height
 
