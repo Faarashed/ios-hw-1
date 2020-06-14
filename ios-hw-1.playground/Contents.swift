@@ -42,7 +42,7 @@ var firstName1 = "nasser"
 var lastName1 = "almarshoud"
 var email1 = "n.almarshoud5556@gmail.com"
 var phoneNumber1 = "+966 999999999"
-var age1 = 16
+var age1 = 20
 var country1 = "Saudi Arabia"
 var area1 = "Riyadh"
 var password = "likepizza"
@@ -60,15 +60,15 @@ var area2 = "heteen"
  isKuwaiti = true
 
 //Person 3
-
-
-
-
-
-
-
-
-
+var fristName3 = " Abdulaziz"
+var lastName3 = "al obaidan"
+var email3 = "a.alobaidan@gmail.com"
+var phoneNumber3 = "+965 97964268"
+var age3 = 21
+var country3 = "kuwait"
+var area3 = "salwa"
+password = "alobaidan098"
+isKuwaiti = true
 /*
 - - - -
 # المطلوب الثالث
@@ -79,7 +79,11 @@ var area2 = "heteen"
  * قارن اذا عمر الاشخاص اصغر من ١٨
  * قارن اذا عمر الاشخاص يساوي  ١٧
  * قارن اذا عمر الاشخاص لا يساوي  ١٧
-
- 
  */
 
+age1 == age2 && age2 == age3 && age1 == age3
+area1 == area2 && area2 == area3 && area1 == area3
+age1 > 18 && age2 > 18 && age3 > 18
+age1 < 18 && age2 < 18 && age3 < 18
+age1 == 17 && age2 == 17 && age3 == 17
+age1 != 17 && age2 != 17 && age3 != 17
